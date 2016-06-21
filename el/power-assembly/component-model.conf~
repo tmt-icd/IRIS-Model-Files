@@ -1,0 +1,13 @@
+subsystem = IRIS
+component = assembly
+modelVersion = "1.0"
+
+wbsId = tmt.ins.inst.iris.
+
+title = "IRIS  Assembly"
+prefix = iris.
+componentType = Assembly
+
+description = """
+
+"""

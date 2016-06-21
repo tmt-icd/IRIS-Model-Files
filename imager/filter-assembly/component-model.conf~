@@ -1,0 +1,13 @@
+subsystem = IRIS
+component = filter-assembly
+modelVersion = "1.0"
+
+wbsId = tmt.ins.inst.iris.imager.filter
+
+title = "IRIS Filter Assembly"
+prefix = iris.imager.filter
+componentType = Assembly
+
+description = """
+This assembly is responsible for putting the selected filter into the science beam. This may involve coordinating the motion of multiple filter wheels or mechanisms.
+"""

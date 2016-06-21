@@ -1,0 +1,13 @@
+subsystem = IRIS
+component = adc-assembly
+modelVersion = "1.0"
+
+wbsId = tmt.ins.inst.iris.imager.adc
+
+title = "IRIS Atmospheric Dispersion Compensator Assembly"
+prefix = iris.imager.adc
+componentType = Assembly
+
+description = """
+This assembly havs the responsibility of adjusting the optics that compensate for the differential refraction due to atmosphere. The compensation largely depends on the elevation of the telescope for the observations, as well as other factors; thus this assemblies will also receive a stream of telemetry data from the TCS.
+"""
