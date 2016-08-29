@@ -4,7 +4,7 @@ modelVersion = "1.0"
 
 wbsId = tmt.ins.inst.iris.
 
-title = "IRIS  Assembly"
+title = "IRIS Window Heater Assembly"
 prefix = iris.
 componentType = Assembly
 
