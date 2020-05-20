@@ -1,0 +1,5 @@
+
+ * If necessary, download the FPGA code to the detector controller when INIT is called.
+ * Consider which configuration parameters to be set at initialization, and which to be set online in response to a configuration command.
+  - I believe most of them can be configured at initialization (e.g. detector gain, number of channels)
+  
